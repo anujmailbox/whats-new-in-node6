@@ -1,0 +1,15 @@
+{
+  "name": "tuts-whats-new-in-node6",
+  "version": "1.0.0",
+  "description": "What's New in Node 6 Course for Tutsplus Demo ",
+  "keywords": [
+    "Node6",
+    "Tutsplus",
+    "Es6"
+  ],
+  "author": "Keyvan Kasaei",
+  "license": "ISC",
+  "engines": {
+    "node":">=6.2.2"
+  }
+}
