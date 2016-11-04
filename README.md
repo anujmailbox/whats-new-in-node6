@@ -1,13 +1,16 @@
-# Tuts+ Tutorial: What's new in Node 6
+# What's new in Node 6
 ## Instructor: Keyvan Kasaei
 
-With over 3.5 million users, Node.js is emerging as a universal platform. The technology is ubiquitous across numerous industries, from startups to Fortune 500 companies.
-In this course, Envato Tuts+ instructor Keyvan Kasaei will show you how to get started with Node6. explains current release lines of Node, new improvements to Node 6, some ES6 case studies and answers to the questions like Why & When should be upgrade to this version. 
+Node.js has seen rapid and widespread adoption in the web development community, but for a long time it had a reputation for being slow to grow and evolve. Not any more! With a new open-source foundation, Node has moved to a 6 month release cycle and is rapidly adding features. The latest long-term support version, 6.x, has more than 98% compatibility with the JavaScript ES6 (ECMAScript 2015) syntax.
+
+In this course, Envato Tuts+ instructor Keyvan Kasaei will show you how to get started with Node 6. Keyvan will explain the current release lines of Node and outline the new improvements to Node 6. Follow along, and you'll get to go in depth with case studies of new ES6 features and guidance on when to upgrade. 
+
+If you want to learn more about JavaScript ES6 syntax, try out our [JavaScript ES6 Fundamentals course](https://code.tutsplus.com/courses/javascript-es6-fundamentals).
 
 
 ## Source Files Description
 
-This source file contain Es6 refactoring examples that are used in the course. 
+This repository contains the JavaScript ES6 refactoring examples that are used in the course. 
 
 
 ### Installation Process:
